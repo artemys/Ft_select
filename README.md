@@ -6,6 +6,8 @@
 Usage : 
 
 Make 
+
+
 ./ft_select choix1 choix 2 choix 3
 
 
