@@ -10,6 +10,9 @@ Make
 
 ./ft_select choix1 choix 2 choix 3
 
+Utilisez les touche flecher pour ce deplacer dans la liste.
+
+esc pour quitter.
 
 ![alt tag](https://raw.githubusercontent.com/artemys/FT_select/master/rendu.png)
 
